@@ -1,0 +1,21 @@
+
+
+Admin User
+
+user_name : admin@ofr.com
+password :2016-01-01
+
+Airport User
+
+user_name : airport@ofr.com
+password : 2016-01-01
+
+Police User
+
+user_name : police@ofr.com
+password : 2016-01-01
+
+For Normal Users 
+
+Register and login with email_id and date of birth
+
